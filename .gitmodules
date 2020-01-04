@@ -1,0 +1,4 @@
+  
+[submodule "common-interface"]
+	path = common-interface
+	url = https://github.com/PO-Project/common-interface.git
